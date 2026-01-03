@@ -1,0 +1,4 @@
+{
+  "app": "workflows.langgraph_workflow:create_app",
+  "env": "python"
+}
